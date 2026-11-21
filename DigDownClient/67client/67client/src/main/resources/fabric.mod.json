@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "sixsevenclient",
+  "version": "2.0.3",
+  "name": "DigDown Client (67 Modules)",
+  "description": "DigDown Client bundle - 67Client feature set for Minecraft 1.21.11.",
+  "authors": [
+    "67Client"
+  ],
+  "license": "All-Rights-Reserved",
+  "icon": "assets/sixsevenclient/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "sixseven.client.ClientInitializer"
+    ]
+  },
+  "mixins": [
+    "sixsevenclient.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.19.0",
+    "minecraft": "~1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

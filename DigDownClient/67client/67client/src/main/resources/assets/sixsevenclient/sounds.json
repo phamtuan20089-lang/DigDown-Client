@@ -1,0 +1,1180 @@
+{
+	"startup.welcome": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:startup/welcome",
+				"stream": false
+			}
+		]
+	},
+	"ui.gui_open": {
+		"sounds": [
+			"sixsevenclient:ui/gui_open"
+		]
+	},
+	"ui.gui_close": {
+		"sounds": [
+			"sixsevenclient:ui/gui_close"
+		]
+	},
+	"ui.hover": {
+		"sounds": [
+			"sixsevenclient:ui/hover"
+		]
+	},
+	"ui.toggle_on": {
+		"sounds": [
+			"sixsevenclient:ui/toggle_on"
+		]
+	},
+	"ui.toggle_off": {
+		"sounds": [
+			"sixsevenclient:ui/toggle_off"
+		]
+	},
+	"ui.slider": {
+		"sounds": [
+			"sixsevenclient:ui/slider"
+		]
+	},
+	"ui.select": {
+		"sounds": [
+			"sixsevenclient:ui/select"
+		]
+	},
+	"ui.keybind": {
+		"sounds": [
+			"sixsevenclient:ui/keybind"
+		]
+	},
+	"ui.notify_on": {
+		"sounds": [
+			"sixsevenclient:ui/notify_on"
+		]
+	},
+	"ui.notify_off": {
+		"sounds": [
+			"sixsevenclient:ui/notify_off"
+		]
+	},
+	"creamy_keys.key_01": {
+		"sounds": [
+			"sixsevenclient:creamy_keys/key_01"
+		]
+	},
+	"creamy_keys.key_02": {
+		"sounds": [
+			"sixsevenclient:creamy_keys/key_02"
+		]
+	},
+	"creamy_keys.key_03": {
+		"sounds": [
+			"sixsevenclient:creamy_keys/key_03"
+		]
+	},
+	"creamy_keys.key_04": {
+		"sounds": [
+			"sixsevenclient:creamy_keys/key_04"
+		]
+	},
+	"creamy_keys.key_05": {
+		"sounds": [
+			"sixsevenclient:creamy_keys/key_05"
+		]
+	},
+	"creamy_keys.key_06": {
+		"sounds": [
+			"sixsevenclient:creamy_keys/key_06"
+		]
+	},
+	"creamy_keys.key_07": {
+		"sounds": [
+			"sixsevenclient:creamy_keys/key_07"
+		]
+	},
+	"creamy_keys.key_08": {
+		"sounds": [
+			"sixsevenclient:creamy_keys/key_08"
+		]
+	},
+	"creamy_keys.key_09": {
+		"sounds": [
+			"sixsevenclient:creamy_keys/key_09"
+		]
+	},
+	"creamy_keys.key_10": {
+		"sounds": [
+			"sixsevenclient:creamy_keys/key_10"
+		]
+	},
+	"creamy_keys.key_11": {
+		"sounds": [
+			"sixsevenclient:creamy_keys/key_11"
+		]
+	},
+	"creamy_keys.key_12": {
+		"sounds": [
+			"sixsevenclient:creamy_keys/key_12"
+		]
+	},
+	"creamy_keys.key_13": {
+		"sounds": [
+			"sixsevenclient:creamy_keys/key_13"
+		]
+	},
+	"creamy_keys.key_14": {
+		"sounds": [
+			"sixsevenclient:creamy_keys/key_14"
+		]
+	},
+	"creamy_keys.key_15": {
+		"sounds": [
+			"sixsevenclient:creamy_keys/key_15"
+		]
+	},
+	"creamy_keys.key_16": {
+		"sounds": [
+			"sixsevenclient:creamy_keys/key_16"
+		]
+	},
+	"creamy_keys.key_17": {
+		"sounds": [
+			"sixsevenclient:creamy_keys/key_17"
+		]
+	},
+	"creamy_keys.key_18": {
+		"sounds": [
+			"sixsevenclient:creamy_keys/key_18"
+		]
+	},
+	"creamy_keys.key_19": {
+		"sounds": [
+			"sixsevenclient:creamy_keys/key_19"
+		]
+	},
+	"creamy_keys.key_20": {
+		"sounds": [
+			"sixsevenclient:creamy_keys/key_20"
+		]
+	},
+	"creamy_keys.key_21": {
+		"sounds": [
+			"sixsevenclient:creamy_keys/key_21"
+		]
+	},
+	"creamy_keys.key_22": {
+		"sounds": [
+			"sixsevenclient:creamy_keys/key_22"
+		]
+	},
+	"creamy_keys.key_23": {
+		"sounds": [
+			"sixsevenclient:creamy_keys/key_23"
+		]
+	},
+	"creamy_keys.key_24": {
+		"sounds": [
+			"sixsevenclient:creamy_keys/key_24"
+		]
+	},
+	"creamy_keys.key_25": {
+		"sounds": [
+			"sixsevenclient:creamy_keys/key_25"
+		]
+	},
+	"creamy_keys.key_26": {
+		"sounds": [
+			"sixsevenclient:creamy_keys/key_26"
+		]
+	},
+	"creamy_keys.key_27": {
+		"sounds": [
+			"sixsevenclient:creamy_keys/key_27"
+		]
+	},
+	"creamy_keys.key_28": {
+		"sounds": [
+			"sixsevenclient:creamy_keys/key_28"
+		]
+	},
+	"creamy_keys.key_29": {
+		"sounds": [
+			"sixsevenclient:creamy_keys/key_29"
+		]
+	},
+	"creamy_keys.key_30": {
+		"sounds": [
+			"sixsevenclient:creamy_keys/key_30"
+		]
+	},
+	"creamy_keys.key_31": {
+		"sounds": [
+			"sixsevenclient:creamy_keys/key_31"
+		]
+	},
+	"creamy_keys.key_32": {
+		"sounds": [
+			"sixsevenclient:creamy_keys/key_32"
+		]
+	},
+	"creamy_keys.key_33": {
+		"sounds": [
+			"sixsevenclient:creamy_keys/key_33"
+		]
+	},
+	"creamy_keys.key_34": {
+		"sounds": [
+			"sixsevenclient:creamy_keys/key_34"
+		]
+	},
+	"creamy_keys.key_35": {
+		"sounds": [
+			"sixsevenclient:creamy_keys/key_35"
+		]
+	},
+	"creamy_keys.key_36": {
+		"sounds": [
+			"sixsevenclient:creamy_keys/key_36"
+		]
+	},
+	"creamy_keys.space": {
+		"sounds": [
+			"sixsevenclient:creamy_keys/space"
+		]
+	},
+	"creamy_keys.enter": {
+		"sounds": [
+			"sixsevenclient:creamy_keys/enter"
+		]
+	},
+	"creamy_keys.backspace": {
+		"sounds": [
+			"sixsevenclient:creamy_keys/backspace"
+		]
+	},
+	"creamy_keys.modifier": {
+		"sounds": [
+			"sixsevenclient:creamy_keys/modifier"
+		]
+	},
+	"creamy_keys.mouse_left": {
+		"sounds": [
+			"sixsevenclient:creamy_keys/mouse_left_1",
+			"sixsevenclient:creamy_keys/mouse_left_2",
+			"sixsevenclient:creamy_keys/mouse_left_3"
+		]
+	},
+	"creamy_keys.mouse_right": {
+		"sounds": [
+			"sixsevenclient:creamy_keys/mouse_right_1",
+			"sixsevenclient:creamy_keys/mouse_right_2",
+			"sixsevenclient:creamy_keys/mouse_right_3"
+		]
+	},
+	"creamy_keys.mouse_middle": {
+		"sounds": [
+			"sixsevenclient:creamy_keys/mouse_middle"
+		]
+	},
+	"creamy_keys.scroll_up": {
+		"sounds": [
+			"sixsevenclient:creamy_keys/scroll_up"
+		]
+	},
+	"creamy_keys.scroll_down": {
+		"sounds": [
+			"sixsevenclient:creamy_keys/scroll_down"
+		]
+	},
+	"startup.sad": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:startup/startup_sad",
+				"stream": true
+			}
+		]
+	},
+	"startup.song": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:startup/startup_song",
+				"stream": true
+			}
+		]
+	},
+	"startup.tiki": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:startup/startup_tiki",
+				"stream": true
+			}
+		]
+	},
+	"startup.67": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:startup/startup_67",
+				"stream": true
+			}
+		]
+	},
+	"emote.confetti_buildup": {
+		"sounds": [{"name": "sixsevenclient:emotes/confetti_buildup", "preload": true}]
+	},
+	"emote.hoppin_dih": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:emotes/hoppin_dih",
+				"stream": false,
+				"preload": true
+			}
+		]
+	},
+	"emote.take_the_l": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:emotes/take_the_l",
+				"stream": true
+			}
+		]
+	},
+	"emote.twerking": {
+		"sounds": [{"name": "sixsevenclient:emotes/twerking", "preload": true}]
+	},
+	"emote.pulse_pop": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:emotes/pulse_pop",
+				"stream": true
+			}
+		]
+	},
+	"emote.neon_shuffle": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:emotes/neon_shuffle",
+				"stream": true
+			}
+		]
+	},
+	"emote.lush_life": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:emotes/lush_life",
+				"preload": true
+			}
+		]
+	},
+	"emote.passinho_do_jamal": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:emotes/passinho_do_jamal",
+				"stream": false,
+				"preload": true
+			}
+		]
+	},
+	"emote.orange_justice": {
+		"sounds": [{"name": "sixsevenclient:emotes/orange_justice", "preload": true}]
+	},
+	"emote.sidewave": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:emotes/sidewave",
+				"stream": true
+			}
+		]
+	},
+	"creamy_keys.creamy.press_01": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:creamy_keys/creamy/press_01",
+				"preload": true
+			}
+		]
+	},
+	"creamy_keys.creamy.press_02": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:creamy_keys/creamy/press_02",
+				"preload": true
+			}
+		]
+	},
+	"creamy_keys.creamy.press_03": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:creamy_keys/creamy/press_03",
+				"preload": true
+			}
+		]
+	},
+	"creamy_keys.creamy.press_04": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:creamy_keys/creamy/press_04",
+				"preload": true
+			}
+		]
+	},
+	"creamy_keys.creamy.press_05": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:creamy_keys/creamy/press_05",
+				"preload": true
+			}
+		]
+	},
+	"creamy_keys.creamy.press_06": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:creamy_keys/creamy/press_06",
+				"preload": true
+			}
+		]
+	},
+	"creamy_keys.creamy.press_07": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:creamy_keys/creamy/press_07",
+				"preload": true
+			}
+		]
+	},
+	"creamy_keys.creamy.press_08": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:creamy_keys/creamy/press_08",
+				"preload": true
+			}
+		]
+	},
+	"creamy_keys.creamy.press_09": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:creamy_keys/creamy/press_09",
+				"preload": true
+			}
+		]
+	},
+	"creamy_keys.creamy.press_10": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:creamy_keys/creamy/press_10",
+				"preload": true
+			}
+		]
+	},
+	"creamy_keys.creamy.press_11": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:creamy_keys/creamy/press_11",
+				"preload": true
+			}
+		]
+	},
+	"creamy_keys.creamy.press_12": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:creamy_keys/creamy/press_12",
+				"preload": true
+			}
+		]
+	},
+	"creamy_keys.creamy.release_01": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:creamy_keys/creamy/release_01",
+				"preload": true
+			}
+		]
+	},
+	"creamy_keys.creamy.release_02": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:creamy_keys/creamy/release_02",
+				"preload": true
+			}
+		]
+	},
+	"creamy_keys.creamy.release_03": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:creamy_keys/creamy/release_03",
+				"preload": true
+			}
+		]
+	},
+	"creamy_keys.creamy.release_04": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:creamy_keys/creamy/release_04",
+				"preload": true
+			}
+		]
+	},
+	"creamy_keys.creamy.release_05": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:creamy_keys/creamy/release_05",
+				"preload": true
+			}
+		]
+	},
+	"creamy_keys.creamy.release_06": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:creamy_keys/creamy/release_06",
+				"preload": true
+			}
+		]
+	},
+	"creamy_keys.creamy.release_07": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:creamy_keys/creamy/release_07",
+				"preload": true
+			}
+		]
+	},
+	"creamy_keys.creamy.release_08": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:creamy_keys/creamy/release_08",
+				"preload": true
+			}
+		]
+	},
+	"creamy_keys.creamy.release_09": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:creamy_keys/creamy/release_09",
+				"preload": true
+			}
+		]
+	},
+	"creamy_keys.creamy.release_10": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:creamy_keys/creamy/release_10",
+				"preload": true
+			}
+		]
+	},
+	"creamy_keys.creamy.release_11": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:creamy_keys/creamy/release_11",
+				"preload": true
+			}
+		]
+	},
+	"creamy_keys.creamy.release_12": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:creamy_keys/creamy/release_12",
+				"preload": true
+			}
+		]
+	},
+	"creamy_keys.clacky.press_01": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:creamy_keys/clacky/press_01",
+				"preload": true
+			}
+		]
+	},
+	"creamy_keys.clacky.press_02": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:creamy_keys/clacky/press_02",
+				"preload": true
+			}
+		]
+	},
+	"creamy_keys.clacky.press_03": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:creamy_keys/clacky/press_03",
+				"preload": true
+			}
+		]
+	},
+	"creamy_keys.clacky.press_04": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:creamy_keys/clacky/press_04",
+				"preload": true
+			}
+		]
+	},
+	"creamy_keys.clacky.press_05": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:creamy_keys/clacky/press_05",
+				"preload": true
+			}
+		]
+	},
+	"creamy_keys.clacky.press_06": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:creamy_keys/clacky/press_06",
+				"preload": true
+			}
+		]
+	},
+	"creamy_keys.clacky.press_07": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:creamy_keys/clacky/press_07",
+				"preload": true
+			}
+		]
+	},
+	"creamy_keys.clacky.press_08": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:creamy_keys/clacky/press_08",
+				"preload": true
+			}
+		]
+	},
+	"creamy_keys.clacky.press_09": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:creamy_keys/clacky/press_09",
+				"preload": true
+			}
+		]
+	},
+	"creamy_keys.clacky.press_10": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:creamy_keys/clacky/press_10",
+				"preload": true
+			}
+		]
+	},
+	"creamy_keys.clacky.press_11": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:creamy_keys/clacky/press_11",
+				"preload": true
+			}
+		]
+	},
+	"creamy_keys.clacky.press_12": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:creamy_keys/clacky/press_12",
+				"preload": true
+			}
+		]
+	},
+	"creamy_keys.clacky.release_01": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:creamy_keys/clacky/release_01",
+				"preload": true
+			}
+		]
+	},
+	"creamy_keys.clacky.release_02": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:creamy_keys/clacky/release_02",
+				"preload": true
+			}
+		]
+	},
+	"creamy_keys.clacky.release_03": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:creamy_keys/clacky/release_03",
+				"preload": true
+			}
+		]
+	},
+	"creamy_keys.clacky.release_04": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:creamy_keys/clacky/release_04",
+				"preload": true
+			}
+		]
+	},
+	"creamy_keys.clacky.release_05": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:creamy_keys/clacky/release_05",
+				"preload": true
+			}
+		]
+	},
+	"creamy_keys.clacky.release_06": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:creamy_keys/clacky/release_06",
+				"preload": true
+			}
+		]
+	},
+	"creamy_keys.clacky.release_07": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:creamy_keys/clacky/release_07",
+				"preload": true
+			}
+		]
+	},
+	"creamy_keys.clacky.release_08": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:creamy_keys/clacky/release_08",
+				"preload": true
+			}
+		]
+	},
+	"creamy_keys.clacky.release_09": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:creamy_keys/clacky/release_09",
+				"preload": true
+			}
+		]
+	},
+	"creamy_keys.clacky.release_10": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:creamy_keys/clacky/release_10",
+				"preload": true
+			}
+		]
+	},
+	"creamy_keys.clacky.release_11": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:creamy_keys/clacky/release_11",
+				"preload": true
+			}
+		]
+	},
+	"creamy_keys.clacky.release_12": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:creamy_keys/clacky/release_12",
+				"preload": true
+			}
+		]
+	},
+	"creamy_keys.thocky.press_01": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:creamy_keys/thocky/press_01",
+				"preload": true
+			}
+		]
+	},
+	"creamy_keys.thocky.press_02": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:creamy_keys/thocky/press_02",
+				"preload": true
+			}
+		]
+	},
+	"creamy_keys.thocky.press_03": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:creamy_keys/thocky/press_03",
+				"preload": true
+			}
+		]
+	},
+	"creamy_keys.thocky.press_04": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:creamy_keys/thocky/press_04",
+				"preload": true
+			}
+		]
+	},
+	"creamy_keys.thocky.press_05": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:creamy_keys/thocky/press_05",
+				"preload": true
+			}
+		]
+	},
+	"creamy_keys.thocky.press_06": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:creamy_keys/thocky/press_06",
+				"preload": true
+			}
+		]
+	},
+	"creamy_keys.thocky.press_07": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:creamy_keys/thocky/press_07",
+				"preload": true
+			}
+		]
+	},
+	"creamy_keys.thocky.press_08": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:creamy_keys/thocky/press_08",
+				"preload": true
+			}
+		]
+	},
+	"creamy_keys.thocky.press_09": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:creamy_keys/thocky/press_09",
+				"preload": true
+			}
+		]
+	},
+	"creamy_keys.thocky.press_10": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:creamy_keys/thocky/press_10",
+				"preload": true
+			}
+		]
+	},
+	"creamy_keys.thocky.press_11": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:creamy_keys/thocky/press_11",
+				"preload": true
+			}
+		]
+	},
+	"creamy_keys.thocky.press_12": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:creamy_keys/thocky/press_12",
+				"preload": true
+			}
+		]
+	},
+	"creamy_keys.thocky.release_01": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:creamy_keys/thocky/release_01",
+				"preload": true
+			}
+		]
+	},
+	"creamy_keys.thocky.release_02": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:creamy_keys/thocky/release_02",
+				"preload": true
+			}
+		]
+	},
+	"creamy_keys.thocky.release_03": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:creamy_keys/thocky/release_03",
+				"preload": true
+			}
+		]
+	},
+	"creamy_keys.thocky.release_04": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:creamy_keys/thocky/release_04",
+				"preload": true
+			}
+		]
+	},
+	"creamy_keys.thocky.release_05": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:creamy_keys/thocky/release_05",
+				"preload": true
+			}
+		]
+	},
+	"creamy_keys.thocky.release_06": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:creamy_keys/thocky/release_06",
+				"preload": true
+			}
+		]
+	},
+	"creamy_keys.thocky.release_07": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:creamy_keys/thocky/release_07",
+				"preload": true
+			}
+		]
+	},
+	"creamy_keys.thocky.release_08": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:creamy_keys/thocky/release_08",
+				"preload": true
+			}
+		]
+	},
+	"creamy_keys.thocky.release_09": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:creamy_keys/thocky/release_09",
+				"preload": true
+			}
+		]
+	},
+	"creamy_keys.thocky.release_10": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:creamy_keys/thocky/release_10",
+				"preload": true
+			}
+		]
+	},
+	"creamy_keys.thocky.release_11": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:creamy_keys/thocky/release_11",
+				"preload": true
+			}
+		]
+	},
+	"creamy_keys.thocky.release_12": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:creamy_keys/thocky/release_12",
+				"preload": true
+			}
+		]
+	},
+	"creamy_keys.honey_creamy.press_01": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:creamy_keys/honey_creamy/press_01",
+				"preload": true
+			}
+		]
+	},
+	"creamy_keys.honey_creamy.press_02": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:creamy_keys/honey_creamy/press_02",
+				"preload": true
+			}
+		]
+	},
+	"creamy_keys.honey_creamy.press_03": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:creamy_keys/honey_creamy/press_03",
+				"preload": true
+			}
+		]
+	},
+	"creamy_keys.honey_creamy.press_04": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:creamy_keys/honey_creamy/press_04",
+				"preload": true
+			}
+		]
+	},
+	"creamy_keys.honey_creamy.press_05": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:creamy_keys/honey_creamy/press_05",
+				"preload": true
+			}
+		]
+	},
+	"creamy_keys.honey_creamy.press_06": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:creamy_keys/honey_creamy/press_06",
+				"preload": true
+			}
+		]
+	},
+	"creamy_keys.honey_creamy.press_07": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:creamy_keys/honey_creamy/press_07",
+				"preload": true
+			}
+		]
+	},
+	"creamy_keys.honey_creamy.press_08": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:creamy_keys/honey_creamy/press_08",
+				"preload": true
+			}
+		]
+	},
+	"creamy_keys.honey_creamy.press_09": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:creamy_keys/honey_creamy/press_09",
+				"preload": true
+			}
+		]
+	},
+	"creamy_keys.honey_creamy.press_10": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:creamy_keys/honey_creamy/press_10",
+				"preload": true
+			}
+		]
+	},
+	"creamy_keys.honey_creamy.press_11": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:creamy_keys/honey_creamy/press_11",
+				"preload": true
+			}
+		]
+	},
+	"creamy_keys.honey_creamy.press_12": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:creamy_keys/honey_creamy/press_12",
+				"preload": true
+			}
+		]
+	},
+	"creamy_keys.honey_creamy.release_01": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:creamy_keys/honey_creamy/release_01",
+				"preload": true
+			}
+		]
+	},
+	"creamy_keys.honey_creamy.release_02": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:creamy_keys/honey_creamy/release_02",
+				"preload": true
+			}
+		]
+	},
+	"creamy_keys.honey_creamy.release_03": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:creamy_keys/honey_creamy/release_03",
+				"preload": true
+			}
+		]
+	},
+	"creamy_keys.honey_creamy.release_04": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:creamy_keys/honey_creamy/release_04",
+				"preload": true
+			}
+		]
+	},
+	"creamy_keys.honey_creamy.release_05": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:creamy_keys/honey_creamy/release_05",
+				"preload": true
+			}
+		]
+	},
+	"creamy_keys.honey_creamy.release_06": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:creamy_keys/honey_creamy/release_06",
+				"preload": true
+			}
+		]
+	},
+	"creamy_keys.honey_creamy.release_07": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:creamy_keys/honey_creamy/release_07",
+				"preload": true
+			}
+		]
+	},
+	"creamy_keys.honey_creamy.release_08": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:creamy_keys/honey_creamy/release_08",
+				"preload": true
+			}
+		]
+	},
+	"creamy_keys.honey_creamy.release_09": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:creamy_keys/honey_creamy/release_09",
+				"preload": true
+			}
+		]
+	},
+	"creamy_keys.honey_creamy.release_10": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:creamy_keys/honey_creamy/release_10",
+				"preload": true
+			}
+		]
+	},
+	"creamy_keys.honey_creamy.release_11": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:creamy_keys/honey_creamy/release_11",
+				"preload": true
+			}
+		]
+	},
+	"creamy_keys.honey_creamy.release_12": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:creamy_keys/honey_creamy/release_12",
+				"preload": true
+			}
+		]
+	},
+	"creamy_keys.mouse_left_release": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:creamy_keys/mouse_left_release",
+				"preload": true
+			}
+		]
+	},
+	"creamy_keys.mouse_right_release": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:creamy_keys/mouse_right_release",
+				"preload": true
+			}
+		]
+	},
+	"creamy_keys.mouse_middle_release": {
+		"sounds": [
+			{
+				"name": "sixsevenclient:creamy_keys/mouse_middle_release",
+				"preload": true
+			}
+		]
+	}
+}
