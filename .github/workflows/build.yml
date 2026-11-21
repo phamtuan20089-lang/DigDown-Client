@@ -3,12 +3,12 @@ name: DigDown Client Build
 
 on:
   push:
-    branches: [main]
-  paths-ignore:
-    - "**.md"
+    branches:
+      - main
   workflow_dispatch:
   pull_request:
-    branches: [main]
+    branches:
+      - main
 
 permissions:
   contents: read
@@ -19,7 +19,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v4
 
       - name: Setup Java 21
@@ -34,7 +34,7 @@ jobs:
           chmod +x gradlew
           ./gradlew build --no-daemon
 
-      - name: Upload 67Client JAR
+      - name: Upload 67Client
         uses: actions/upload-artifact@v4
         with:
           name: DigDown-67Client
@@ -46,7 +46,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v4
 
       - name: Setup Java 21
@@ -61,9 +61,10 @@ jobs:
           chmod +x gradlew
           ./gradlew build --no-daemon
 
-      - name: Upload Anubis JAR
+      - name: Upload Anubis
         uses: actions/upload-artifact@v4
         with:
           name: DigDown-Anubis
           path: DigDownClient/Anubis/anubis-1.0-src/build/libs/*.jar
           if-no-files-found: error
+
